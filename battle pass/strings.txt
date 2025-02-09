@@ -1,0 +1,7 @@
+    <string name="bp_act_st1">Пакет Premium</string>
+    <string name="banner_body_text_1">Выполняйте задания, прокачивайте &lt;font color=#FFB001&gt;battle pass&lt;/font&gt;, и получайте уникальные награды за проведенное время в игре. Чем выше уровень &lt;font color=#FFB001&gt;BLACK PASS&lt;/font&gt;, тем ценнее награды!</string>
+    <string name="banner_body_text_2">Купите &lt;font color=#FFB001&gt;battle pass PREMIUM&lt;/font&gt; и получайте&lt;br&gt;самые ценные и эксклюзивные награды из ленты!</string>
+    <string name="banner_button_show_prices">Смотреть</string>
+    <string name="banner_title_prize_1">10 открытых\nуровней</string>
+    <string name="banner_title_prize_2">VIP PLATINUM\nна 23 дня</string>
+    <string name="banner_title_prize_3">Мотоцикл\nУрал</string>
